@@ -9,4 +9,4 @@ It is widely expected that the Simon task will suggest that a stimulus’ locati
 even if the participant is made aware that the location of the stimulus is irrelevant.
 
 # Languages
-MATLAB
+MATLAB 2019b (with Psychtoolbox)
